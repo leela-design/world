@@ -1,0 +1,17 @@
+import pak1.*;
+import pak2.*;
+
+class PackDemo
+{
+	
+	public static void main(String args[])
+	{
+		A a=new A();
+		B b=new B();
+		a.displayA();
+	        b.displayB();        
+                
+		
+		
+	}
+}
